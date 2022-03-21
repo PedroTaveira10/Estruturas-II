@@ -20,8 +20,8 @@ void exibeMatriz(int mat[TAM][TAM]){
 
 void preenche(int mat[TAM][TAM], int linha, int coluna){
 	mat[linha][coluna] = 1;
+	contador++;
 	exibeMatriz(mat);
-    contador++;
 	if(linha<5 && mat[linha+1][coluna]==0){
         //casa inferior
         preenche(mat,linha+1,coluna);
