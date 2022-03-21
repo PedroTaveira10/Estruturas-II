@@ -1,0 +1,4 @@
+ gcc fatorial.c -g
+
+//comando para compilar
+gcc prog.c -o prog

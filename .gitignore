@@ -1,0 +1,21 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/executable
+# Edit at https://www.toptal.com/developers/gitignore?templates=executable
+
+### Executable ###
+*.app
+*.bat
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
+*.vscode
+*.json
+teste2.c
+teste.c
+
+# End of https://www.toptal.com/developers/gitignore/api/executable
